@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+h2 {
+    font-family: "Manrope";
+    color: #DC0B0B;
+    font-size: 3em;
+    font-weight: 700;
+}
+p {
+    font-family: "Libre Baskerville";
+   
+}
+h1 {
+    font-family: "libre baskerville";
+    text-align: center;
+    font-weight: 800;
+    color: #DC0B0B;
+    font-size: 4em;
+}
+h4 {
+    font-family: "manrope";
+    text-align: center; 
+    color: white;
+    font-size: 2em;
+}
+.image {
+    font-size: .8em;
+}
+img {
+    width: 100%;
+    padding-top: 1em;
+}
+header {
+    background-color: black;
+    padding: 10em;
+}
+@media (max-width: 768px) {
+    h1 {
+        font-size: 3em; 
+    }
+  .container {
+        width: 95%;
+    }
+    h4 {
+        font-size: 1.5em;
+    }
+    header {
+        padding: 5em;
+    }
+}
+.intro {
+    padding-top: 2em;
+}
+.text {
+    padding: 1em 0;
+}
+.graphic {
+    padding: .5em 0; 
+}
+footer {
+    padding: 2em 0;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 1.5em;
+}
