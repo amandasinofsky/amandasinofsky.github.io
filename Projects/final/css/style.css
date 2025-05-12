@@ -15,7 +15,7 @@ h1 {
     text-align: center;
     font-weight: 800;
     color: #DC0B0B;
-    font-size: 4em;
+    font-size: 3.5em;
 }
 h4 {
     font-family: "manrope";
@@ -36,7 +36,7 @@ header {
 }
 @media (max-width: 768px) {
     h1 {
-        font-size: 3em; 
+        font-size: 2.5em; 
     }
   .container {
         width: 95%;
